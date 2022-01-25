@@ -1,0 +1,6 @@
+[submodule "simulation"]
+	path = simulation
+	url = https://gitee.com/QH_ayang/simulation.git
+[submodule "html_css_demo"]
+	path = html_css_demo
+	url = https://gitee.com/wyanhui02/html_css_demo.git
