@@ -9,3 +9,13 @@
 开通了[Netlify Sites](https://charles94jp-html-templates.netlify.app)，大家可以根据目录、路径查看演示，如
 
 https://charles94jp-html-templates.netlify.app/simulation/index.html
+
+
+
+## Clone or Download
+
+```shell
+git clone https://github.com/Charles94jp/html-templates.git
+git submodule update --init
+```
+
